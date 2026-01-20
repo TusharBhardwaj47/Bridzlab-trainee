@@ -1,0 +1,24 @@
+{
+  "name": "bridzlab-trainee",
+  "version": "1.0.0",
+  "description": "**#Bridgelabs Trainee**",
+  "homepage": "https://github.com/TusharBhardwaj47/Bridzlab-trainee#readme",
+  "bugs": {
+    "url": "https://github.com/TusharBhardwaj47/Bridzlab-trainee/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharBhardwaj47/Bridzlab-trainee.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  
+    "scripts": {
+    "start": "node app.js",
+    "git-basics": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  }
+

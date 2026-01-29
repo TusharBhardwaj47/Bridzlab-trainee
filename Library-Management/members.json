@@ -1,0 +1,25 @@
+[
+  {
+    "memberId": 101,
+    "name": "Tushar",
+    "membershipType": "gold",
+    "borrowed": [
+      {
+        "bookId": 1,
+        "title": "Java",
+        "price": 500
+      },
+      {
+        "bookId": 2,
+        "title": "JS",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "memberId": 101,
+    "name": "Tushar",
+    "membershipType": "gold",
+    "borrowed": []
+  }
+]

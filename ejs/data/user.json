@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Tushar",
+        "email": "example@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 2,
+        "name": "Tushar",
+        "email": "example1@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 3,
+        "name": "Tushar",
+        "email": "example2@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 1,
+        "name": "Tushar",
+        "email": "example3@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 4,
+        "name": "Tushar",
+        "email": "example@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 5,
+        "name": "Tushar",
+        "email": "example4@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 6,
+        "name": "Tushar",
+        "email": "example5@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 7,
+        "name": "Tushar",
+        "email": "example6@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 8,
+        "name": "Tushar",
+        "email": "example7@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 9,
+        "name": "Tushar",
+        "email": "example8@gmail.com",
+        "phone": "1234567890"
+    }
+
+]

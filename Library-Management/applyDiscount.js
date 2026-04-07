@@ -6,5 +6,4 @@ function applyDiscount(fine, membershipType) {
 
     return fine - (fine * discount);
 }
-
 export default applyDiscount;
